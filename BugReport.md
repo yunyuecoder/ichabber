@@ -1,0 +1,1 @@
+If the application works incorrectly or crashes (unexpeted terminates), please fill a report in the [Issues](http://code.google.com/p/ichabber/issues/list). For unexpeted terminate applications check the log files that are located to ` /Library/Logs/CrashReporter/iChabber-*.plist ` into device file system. Then, attach these files to your report
